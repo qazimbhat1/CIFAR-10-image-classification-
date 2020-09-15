@@ -20,7 +20,6 @@ It depends on your choice (check out the [tensorflow conv2d](https://www.tensorf
 
 The row vector (3072) has the exact same number of elements if you calculate 32\*32\*3==3072. In order to reshape the row vector, (3072), there are two steps required. The **first** step is involved with using **reshape** function in numpy, and the **second** step is involved with using **transpose** function in numpy as well.
 
-<img src="./reshape-transpose.png" alt="Drawing"/>
 
 # 5. Model Architecture
 
